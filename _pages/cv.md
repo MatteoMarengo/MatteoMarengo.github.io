@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc MVA <i>(Mathematics, Vision, Learning)</i>, ENS Paris-Saclay, 2024 (expected)
+* MEng in Biomedical Engineering, PHELMA-Grenoble INP, 2023
+* MSc in Nanobiotechnology, Université Grenoble Alpes, 2023
+* Classes Préparatoires in Physics, Chemistry, Mathematics, Lycée Stanislas, 2020
 
 Work experience
 ======
